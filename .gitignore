@@ -1,0 +1,26 @@
+# Ignore files and directories
+*.bak
+*.log
+*.mdf
+*.ldf
+*.old
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+temp/
+tmp/
+*.temp
+
+# Local configuration
+local.sql
+config.local.sql
